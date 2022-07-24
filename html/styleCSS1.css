@@ -1,0 +1,26 @@
+h1{
+font-size : 22pt;
+color: yellow;
+background-color: #6A0888;
+}
+body{background-color:Pink}
+h2{
+font-size : 22pt;
+color: yellow;
+text-align: center;
+text-decoration: underline;
+}
+p:first-letter
+{
+color:yellow;
+}
+
+img{
+      float: right;
+}
+table{
+    float : right;
+}
+img{ 
+  float : ;
+}

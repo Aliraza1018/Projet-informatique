@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<p> Bravo1!</p>
+<title> Hydroptère </title>
+</head>
+<body>
+<h1> Hydroptère </h1>
+<img src="hydroptere.png" alt="boat in the sea" width="300" height="500"
+</html> 
+<li>L’Hydroptère est un voilier de type hydroptère, pouvant naviguer hors de l’eau à partir d'une certaine vitesse grâce à un ensemble d'ailes immergées, dessiné par Alain Thébault.</li>
+<li>L'Hydroptère est aussi le nom d'un principe technique développé par Alain Thébault.</li>
+<p>Après 20 ans de recherches et plusieurs maquettes, Alain Thébault a réussi à construire un modèle à taille réelle grâce aux nouveaux matériaux (carbone et titane) beaucoup plus résistants et légers.</p>
+<p>Le vendredi 4 septembre 2009 à Hyères, l'Hydroptère a battu le record absolu de vitesse, à la voile, sur 500 mètres avec 51,36 nœuds1, battant de presque un nœud le kitesurfeur Alexandre Caizergues</p>
+<p>Le dimanche 8 novembre 2009, toujours à Hyères, l'Hydroptère passe la barre des 50 nœuds sur le mille marin, avec un nouveau record à 50,17 nœuds3.</p>
+<p>Depuis 2010, l'Hydroptère est tourné vers le large. Après avoir effectué deux tournées européennes, l'Hydroptère a été transporté à Los Angeles d'où il tentera de battre le record de la traversée entre Los Angeles et Honolulu, en moins de 4 jours, 19 heures et 31 minutes, un record actuellement détenu par le maxi trimaran Geronimo.</p>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;    
+}
+</style>
+</head>
+<table style="width:50%">
+  <tr>    
+    <th colspan="2">Caractéristiques</th>
+  </tr> 
+    <td>équipage</td>
+    <td>4 à 10 personnes</td> 
+  </tr>
+  <td>Débuts</td>
+  <td>1994</td>
+  </tr>
+  <td>Longueur hors-tout</td>
+  <td>18,24m</td> 
+  </tr>
+  <td>Maitre-bau</td>
+  <td>24m</td> 
+  </tr>
+  <td>Voiture</td>
+  <td>400m²</td> 
+  </tr>
+  <td>Déplacement</td>
+  <td>7 tonnes</td> 
+  </tr>
+  <td>Architecte</td>
+  <td>Alain Thébault</td>  
+</table>
+<img src="hydroptere-fiche-technique.png" alt="boat in the sea" width="600" height="300">
+<video width="400" height="240" controls>
+  <source src="Les_premires_nav39_de_l39Hydroptre_DCNS.mp4" type="video/mp4">
+  <source src="Les_premires_nav39_de_l39Hydroptre_DCNS.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+</body>
+</html>
+<img src="quizz.png" alt="Quizz" width="600" height="300">
+<a=href"https://www.quizz.htlm"<a/>.
